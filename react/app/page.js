@@ -22,7 +22,7 @@ export default function Home() {
           <br />
           <Box1>
             <Box2>
-              <Image style={{ borderRadius: 12 }} src={p2} alt="picture 2" />
+              <Image style={{ borderRadius: 12, width: '100%', height: 'auto' }} src={p2} alt="picture 2" />
             </Box2>
             <Box3>
                 <Text>-35% en tus entradas por ser Madridista Premium</Text>
