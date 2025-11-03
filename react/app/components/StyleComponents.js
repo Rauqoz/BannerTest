@@ -45,8 +45,8 @@ export const Box3 = styled.div`
     border-radius: 12px;
     flex: 1;
     display: flex;
-    margin-top: 30px;
-    margin-bottom: 30px;
+    margin-top: 15px;
+    margin-bottom: 15px;
     align-items: flex-start;
     flex-direction: column;
     justify-content: center;
